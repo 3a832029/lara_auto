@@ -1,0 +1,22 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "hello",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chu Hui Lin",
+            "email": "3a832008@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
+
+}
