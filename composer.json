@@ -8,15 +8,14 @@
     },
     "authors": [
         {
-            "name": "Chu Hui Lin",
-            "email": "3a832008@gm.student.ncut.edu.tw"
+            "name": "willie891031",
+            "email": "willie891031@gmail.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Demo\\": "./src/Demo"
-        }
-    }
+    "require": {
+        "monolog/monolog": "^2.3",
+        "nesbot/carbon": "^2.53"
+    },
+    
 
 }
